@@ -1,0 +1,2 @@
+model_name,accuracy,precision,recall,f1_score,roc_auc,threshold_used
+Logistic Regression (SMOTE),0.7473502304147466,0.05468066491688539,0.7961783439490446,0.10233319688907082,0.8405999203354579,0.5
